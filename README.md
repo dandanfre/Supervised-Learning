@@ -1,1 +1,2 @@
 # Supervised-Learning
+By Daniel Fremming. The assignment was a part of the mandatory coursework for IN4050 at UiO autumn 2024. This assignment explores the implementation and comparison of different supervised learning approaches - from basic linear classifiers to more complex multi-layer neural networks - using a synthetic dataset with 5 classes. The work focuses on understanding how different algorithms handle binary and multi-class classification tasks, with emphasis on implementation from scratch, hyperparameter tuning, and performance analysis through various metrics.
